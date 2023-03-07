@@ -2,7 +2,7 @@
 
 [![test](https://github.com/DaikiNakane/ros2_w/actions/workflows/test.yml/badge.svg)](https://github.com/DaikiNakane/ros2_w/actions/workflows/test.yml)
 
-このノードは、std_msgs/Int16メッセージを発行することで、数値を数え上げるパブリッシャーです。このノードは、偶数の数値のみを発行するため、購読者がこれらの数値を受信し、適切に処理できます
+このノードは、std_msgs/Int16メッセージを発行することで、数値を数え上げるパブリッシャーです。このノードは、偶数の数値のみを発行します
 
 ## 必要なソフトウェア
 * Python
